@@ -6,6 +6,10 @@ h5,
 h6,
 p {
   margin: 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
 }
 
 p:last-child {
@@ -25,6 +29,7 @@ a {
 
 button {
   cursor: pointer;
+  font-family: "Montserrat", sans-serif;
 }
 
 img {
